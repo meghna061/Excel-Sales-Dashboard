@@ -1,5 +1,3 @@
-# Excel-Sales-Dashboard
-Interactive sales dashboard built in Microsoft Excel using pivot tables, charts, slicers, and KPI analysis.
 # Excel Sales Dashboard
 ## Overview
 An interactive sales dashboard built in Microsoft Excel to analyze sales, profit, and business performance.
