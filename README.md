@@ -1,5 +1,4 @@
 # Excel Sales Dashboard
-## Overview
 An interactive sales dashboard built in Microsoft Excel to analyze sales, profit, and business performance.
 
 ## Tools Used
