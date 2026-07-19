@@ -1,4 +1,6 @@
-# Excel Sales Dashboard
+<p align="center">
+  <img width="1536" height="1024" alt="banner(excel_dashboard)_1" src="https://github.com/user-attachments/assets/4104d844-004c-4c09-be97-e1325bf91f73" width="850" />
+  
 An interactive sales dashboard built in Microsoft Excel to analyze sales, profit, and business performance.
 
 ## Tools Used
